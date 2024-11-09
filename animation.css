@@ -1,0 +1,11 @@
+@keyframes merabox {
+    0% {
+        scale: 1.4;
+    }
+    50% {
+        scale: 1;
+    }
+    100% {
+        scale: 1.4;
+    }
+}
